@@ -1,2 +1,3 @@
 # hello-world
 trying out repositories
+It's sad that i have been a comsci major for almost 2 years and have never used gitgub before.....
